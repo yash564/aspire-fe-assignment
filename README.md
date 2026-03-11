@@ -1,20 +1,3 @@
-<p align="center"><h1 align="center">ASPIRE-FE-TEST</h1></p>
-<p align="center">
-	<em><code>Aspire FE Test with ReactJs + Typescript</code></em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/hirusnov/aspire-fe-test?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/hirusnov/aspire-fe-test?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/hirusnov/aspire-fe-test?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/hirusnov/aspire-fe-test?style=default&color=0080ff" alt="repo-language-count">
-</p>
-<p align="center"><!-- default option, no dependency badges. -->
-</p>
-<p align="center">
-	<!-- default option, no dependency badges. -->
-</p>
-<br>
-
 ##  Overview
 
 # 💳 Aspire Card Management App
