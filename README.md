@@ -4,7 +4,7 @@
 
 This is a dynamic and interactive UI application based on the Aspire CSS challenge. It allows users to manage debit cards by viewing, adding, and freezing/unfreezing them. The UI is pixel-perfect to the original challenge design and built with modern technologies, best practices, and performance in mind.
 
-[Deploy Vercel](https://aspire-fe-test-five.vercel.app)
+https://aspire-fe-assignment.vercel.app
 
 ## 🚀 Features
 
