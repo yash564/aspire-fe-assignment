@@ -1,0 +1,26 @@
+@layer theme, base, antd, components, utilities;
+
+@import 'tailwindcss/theme.css' layer(theme);
+@import 'tailwindcss/preflight.css' layer(base);
+@import 'tailwindcss/utilities.css' layer(utilities);
+
+@theme {
+  --color-primary: #01D167;
+  --color-secondary: #325BAF;
+  --color-background: #0C365A;
+  --color-black: #222222;
+  --color-blue: #23CEFD;
+  --color-light-blue: #EDF3FF;
+  --color-gray-1: #DDD;
+  --color-border: #FCFCFC;
+  --text-md: 15px;
+}
+
+@layer components {
+  /* .container {
+    display: flex;
+    width: 1366px;
+    height: 100vh;
+    margin: 0 auto;
+  } */
+}
